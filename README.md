@@ -1,0 +1,1 @@
+Scan a PDF in search for blank pages and remove them based on their contrast.
